@@ -16,7 +16,3 @@ use my code with git clone / use this commad
 ```bash
   git clone https://github.com/takathena/change-theme.git
 ```
-    
-## Tech Stack
-
-**Language :** JS (JavaScrip)
